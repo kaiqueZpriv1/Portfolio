@@ -552,6 +552,7 @@ header {
 /* ===portfolio 1 - box -1 ========== */
 .container_portfolio-1 {
   display: flex;
+  margin: 100px 0;
 }
 /* IMG PROJETO */
 .img-projeto1 {
@@ -1056,7 +1057,7 @@ footer {
   }
 }
 
-@media (max-width: 450px) {
+@media (max-width: 600px) {
   header {
     background-color: #1c2027;
     box-shadow: none;
